@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blk-design-system-react/static/css/main.9db742ec.chunk.css",
+    "main.js": "/blk-design-system-react/static/js/main.5a31dae2.chunk.js",
+    "main.js.map": "/blk-design-system-react/static/js/main.5a31dae2.chunk.js.map",
+    "runtime-main.js": "/blk-design-system-react/static/js/runtime-main.f6a9f93e.js",
+    "runtime-main.js.map": "/blk-design-system-react/static/js/runtime-main.f6a9f93e.js.map",
+    "static/js/2.aa6a47d8.chunk.js": "/blk-design-system-react/static/js/2.aa6a47d8.chunk.js",
+    "static/js/2.aa6a47d8.chunk.js.map": "/blk-design-system-react/static/js/2.aa6a47d8.chunk.js.map",
+    "index.html": "/blk-design-system-react/index.html",
+    "precache-manifest.bc2aeb199fe827f8c4982d40b623de6e.js": "/blk-design-system-react/precache-manifest.bc2aeb199fe827f8c4982d40b623de6e.js",
+    "service-worker.js": "/blk-design-system-react/service-worker.js",
+    "static/css/main.9db742ec.chunk.css.map": "/blk-design-system-react/static/css/main.9db742ec.chunk.css.map",
+    "static/js/2.aa6a47d8.chunk.js.LICENSE.txt": "/blk-design-system-react/static/js/2.aa6a47d8.chunk.js.LICENSE.txt",
+    "static/js/main.5a31dae2.chunk.js.LICENSE.txt": "/blk-design-system-react/static/js/main.5a31dae2.chunk.js.LICENSE.txt",
+    "static/media/blk-design-system-react.scss?v=1.1.0": "/blk-design-system-react/static/media/square5.ff004a0e.png",
+    "static/media/nucleo-icons.css": "/blk-design-system-react/static/media/nucleo.f0b489a5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a9f93e.js",
+    "static/js/2.aa6a47d8.chunk.js",
+    "static/css/main.9db742ec.chunk.css",
+    "static/js/main.5a31dae2.chunk.js"
+  ]
+}
